@@ -1,0 +1,7 @@
+public class old
+{
+public static void ain(String[]args)
+{
+ System.out.println("OLD");
+}
+}
